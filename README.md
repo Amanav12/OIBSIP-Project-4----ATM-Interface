@@ -1,4 +1,4 @@
-# OIBSIP-Project-4----ATM-Interface
+# OIBSIP-Project-4----Online Exam System
 Project Overview: Online Exam System in Java
 Project Name: Online Exam System
 
